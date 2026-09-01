@@ -72,3 +72,12 @@ Feel free to connect with me and collaborate on interesting projects!
   </a>
 </p>
 
+<a href="https://leetcode.com/u/Jatin_SI/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/jatinstud3bdb?tab=activity" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+</a>
+
+
