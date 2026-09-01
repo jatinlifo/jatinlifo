@@ -49,6 +49,7 @@ Data Structures & Algorithms | DBMS | Operating Systems | Computer Networks | Sy
 
 ---
 
+
 ## 🎯 Current Focus
 
 ```text
@@ -65,6 +66,7 @@ Kubernetes
 
 Feel free to connect with me and collaborate on interesting projects!
 
+### Portfolio 
 
 <p align="left">
   <a href="https://portfolio-eta-nine-29.vercel.app/" target="_blank">
@@ -72,18 +74,42 @@ Feel free to connect with me and collaborate on interesting projects!
   </a>
 </p>
 
+## 🚀 Projects
+
+### ☀️ Solar Project — Freelance Project
+
 <a href="https://solar-project-six-chi.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Freelance_Project-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Freelance Project" />
+  <img src="https://img.shields.io/badge/Solar_Project-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Solar Project Live Demo" />
 </a>
 
+<br><br>
+
+### 🧠 DSA Practice Platform
+
 <a href="https://coding-contest-ten.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/DSA_Practice_Platform-Live_Demo-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA Practice Platform" />
+  <img src="https://img.shields.io/badge/DSA_Practice_Platform-Live_Demo-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA Practice Platform Live Demo" />
 </a>
+
+<br><br>
+
+### ❌⭕ Tic Tac Toe Game
 
 <a href="https://tic-tac-toe-game-sable-kappa.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Tic_Tac_Toe-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Tic Tac Toe Live Demo" />
 </a>
 
+
+<br><br>
+
+## 🏆 Achievements
+
+* 🧠 Solved **1200+ DSA problems on LeetCode, 700 + on GFG** across competitive programming platforms.
+* 🧠 Solved ***SQL Query everyday*** improving Database querying. 
+* 🟠 Actively solving problems on **LeetCode and GeeksfoGeeks**.
+* 🟢 Practicing Data Structures and Algorithms Contest  on **LeetCode and GeeksforGeeks**.
+* 💼 Successfully completed my **first freelance project**.
+* 💼 Successfully completed ***GFG 160 DSA challenge or NPCI60 challenge**. 
+* 🚀 Building projects and continuously improving my skills in **Backend Development**.
 
 <a href="https://leetcode.com/u/Jatin_SI/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
