@@ -72,6 +72,19 @@ Feel free to connect with me and collaborate on interesting projects!
   </a>
 </p>
 
+<a href="https://solar-project-six-chi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Freelance_Project-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Freelance Project" />
+</a>
+
+<a href="https://coding-contest-ten.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/DSA_Practice_Platform-Live_Demo-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA Practice Platform" />
+</a>
+
+<a href="https://tic-tac-toe-game-sable-kappa.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Tic_Tac_Toe-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Tic Tac Toe Live Demo" />
+</a>
+
+
 <a href="https://leetcode.com/u/Jatin_SI/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
 </a>
