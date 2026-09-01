@@ -25,11 +25,11 @@ C++ | JavaScript
 
 ### Backend Development
 
-Node.js | Express.js | REST APIs | Authentication & Authorization
+Node.js | Express.js | REST APIs | Authentication & Authorization | Server Side Logic 
 
 ### Databases
 
-PostgreSQL | MySQL
+PostgreSQL | MySQL | MongoDB 
 
 ### DevOps & Infrastructure
 
